@@ -1,0 +1,1 @@
+this projects is about the deep dive exploration of undertanding how youtube analytics work  and also usnderstanding the sentiments of the comments extracted using YouTube data API to analyze the public opinion and understand the viewership and trends over time time based on the comments
